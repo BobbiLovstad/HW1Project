@@ -1,2 +1,2 @@
 # HW1Project
-Projects for homework 1-CIS122
+Projects from visual studio code for homework 1-CIS122
